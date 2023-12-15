@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elisha Okello
 =====================================================================================================================================
 
-Software programmer and Software Developer
-------------------------------------------
+Software Developer
+------------------
 
-As a software developer and programmer, I specialize in designing, coding, testing, and maintaining software applications. My role involves understanding the unique requirements of a project, translating them into functional specifications, and then implementing the solutions using various programming languages and development tools.
+As a software developer and programmer, I am dedicated to designing, creating, and maintaining innovative software solutions that address specific needs and challenges. Armed with a deep understanding of programming languages, algorithms, and software development methodologies, I collaborate with cross-functional teams to analyze requirements and translate them into robust, efficient code. My role extends beyond mere coding; I engage in continuous learning to stay abreast of emerging technologies, ensuring that my work aligns with industry best practices. I am adept at troubleshooting and debugging, committed to delivering high-quality software products that meet or exceed user expectations. Whether developing standalone applications, contributing to large-scale projects, or integrating new features into existing systems, I am passionate about harnessing technology to solve complex problems and contribute to the ever-evolving landscape of software development.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [elisha.okello@outlook.com](mailto:elisha.okello@outlook.com)
