@@ -6,8 +6,8 @@ Software Developer
 
 Armed with a deep understanding of programming languages, algorithms, and software development methodologies.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [elisha.okello@outlook.com](mailto:elisha.okello@outlook.com)
+* 🌍  I'm based in Germany
+* ✉️  You can contact me at [okelloatieno23@gmail.com](mailto:okelloatieno23@gmail.com)
 * 🧠  I'm learning Web Development Frameworks & Machine Learning and AI Basics
 * 🤝  I'm open to collaborating on Mobile App Development, Game Development, Web Application Development & Machine Learning and Data Science
 * ⚡  I love toddlers..... ssshhhhh.....don't tell my mum though!!!
